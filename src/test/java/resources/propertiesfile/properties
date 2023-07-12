@@ -1,0 +1,5 @@
+browser = chrome
+browser_1 = edge
+browser_2 = firefox
+
+baseUrl = https://magento.softwaretestingboard.com/
